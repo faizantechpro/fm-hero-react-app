@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name" : "Notify Engineering"
+    },
+    {
+        "id": 2,
+        "name" : "Scheduled Repair"
+    },
+    {
+        "id": 3,
+        "name" : "Removed From Service"
+    },
+    {
+        "id": 4,
+        "name" : "Planned Retrofit"
+    },
+    {
+        "id": 5,
+        "name" : "Waiting On Parts"
+    }
+]

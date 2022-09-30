@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Remove"
+    },
+    {
+        "id": 2,
+        "name": "Replace"
+    },
+    {
+        "id": 3,
+        "name": "Other"
+    }
+]

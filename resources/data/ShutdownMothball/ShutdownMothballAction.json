@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Bypass"
+    },
+    {
+        "id": 2,
+        "name": "Relocate"
+    },
+    {
+        "id": 3,
+        "name": "Remove"
+    },
+    {
+        "id": 4,
+        "name": "Repair"
+    },
+    {
+        "id": 5,
+        "name": "Replace"
+    },
+    {
+        "id": 6,
+        "name": "Other"
+    }
+]

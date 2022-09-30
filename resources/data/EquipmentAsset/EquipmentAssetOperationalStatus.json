@@ -1,0 +1,50 @@
+[
+    {
+        "id": "Disposed/Destroyed",
+        "name": "Disposed / Destroyed"
+    },
+    {
+        "id": "Mothballed",
+        "name": "Mothballed"
+    },
+    {
+        "id": "Normal Operation",
+        "name": "Normal Operation"
+    },
+    {
+        "id": "Pending Repair All Gas Removed",
+        "name": "Pending Repair All Gas Removed"
+    },
+    {
+        "id": "Planned Retirement",
+        "name": "Planned Retirement"
+    },
+    {
+        "id": "Planned Retrofit",
+        "name": "Planned Retrofit"
+    },
+    {
+        "id": "Interim Non-Operation",
+        "name": "Interim Non-Operation"
+    },
+    {
+        "id": "Seasonal Non-Operation",
+        "name": "Seasonal Non-Operation"
+    },
+    {
+        "id": "Seasonal Operation",
+        "name": "Seasonal Operation"
+    },
+    {
+        "id": "Shutdown",
+        "name": "Shutdown"
+    },
+    {
+        "id": "Sold",
+        "name": "Sold"
+    },
+    {
+        "id": "Under Repair",
+        "name": "Under Repair"
+    }
+]

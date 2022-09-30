@@ -1,0 +1,38 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "outDir": "./dist/",
+	"target": "es2017",
+	"lib": ["es2015", "es2016", "es2017", "es6", "es7", "es5", "dom"],
+    "jsx": "react",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "allowJs": false,
+    "paths": {
+      "~/*": ["./src/*"],
+      "@models/*": ["./database/models/*"],
+      "@services/*": ["./database/services/*"],
+      "@resources/*": ["resources/*"],
+      "@images": ["./resources/images/index"],
+      "@config": ["./system/config/index"],
+      "@drivers": ["./system/driver/index"],
+      "@util": ["./system/util/index"],
+      "@util/Algorithm": ["./system/util/Algorithm"],
+      "@util/Api": ["./system/util/Api"],
+      "@util/Css": ["./system/util/Css"],
+      "@util/Geo": ["./system/util/Geo"],
+      "@util/Functional": ["./system/util/Functional"],
+      "@util/Form": ["./system/util/Form"],
+      "@util/Chrono": ["./system/util/Chrono"],
+      "@util/React": ["./system/util/React"],
+      "@util/Tailwind": ["./system/util/Tailwind"],
+      "@util/Token": ["./system/util/Token"],
+      "@util/TokenStorage": ["./system/util/TokenStorage"],
+      "@util/Unit": ["./system/util/Unit"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}

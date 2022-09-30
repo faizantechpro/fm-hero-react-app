@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name" : "Rub Out"
+    },
+    {
+        "id": 2,
+        "name" : "Joint Failure"
+    },
+    {
+        "id": 3,
+        "name" : "Corrosion"
+    },
+    {
+        "id": 4,
+        "name" : "Vibration"
+    },
+    {
+        "id": 5,
+        "name" : "Abuse"
+    },
+    {
+        "id": 6,
+        "name" : "Warranty"
+    },
+    {
+        "id": 7,
+        "name" : "Seal Failure"
+    },
+    {
+        "id": 8,
+        "name" : "Rupture"
+    },
+    {
+        "id": 9,
+        "name" : "Catastrophe"
+    },
+    {
+        "id": 10,
+        "name" : "Mechanical Failure"
+    },
+    {
+        "id": 11,
+        "name" : "ALDS"
+    }
+]

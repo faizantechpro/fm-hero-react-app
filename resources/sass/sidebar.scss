@@ -1,0 +1,54 @@
+@use 'sass:string';
+
+$sidebars: welcome, login, register;
+$sidebar-width: 442px;
+
+$screens: (
+  "xs":  (0px 640px),
+  "sm":  (640px 768px),
+  "md":  (768px 1024px),
+  "lg":  (1024px 1280px),
+  "xl":  (1280px 1600px),
+  "2xl": (1600px 2000px),
+  "3xl": (2000px 9999px),
+);
+
+$offset: 0px;
+
+@each $screen, $widths in $screens {
+  $min-width: nth($widths, 1);
+  $max-width: nth($widths, 2);
+
+  @media screen and (min-width: $min-width) and (max-width: $max-width) {
+    @each $name in $sidebars {
+      $first-letter: string.to-upper-case(string.slice($name, 1, 1));
+      $filename: string.insert(string.slice($name, 2), $first-letter, 1);
+
+      .bg-sidebar-#{$name}:before {
+        z-index: -1;
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: $sidebar-width;
+        height: 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-image: url('../images/SideBar/#{$filename}@#{$screen}.jpg');
+      }
+
+      .bg-sidebar-#{$name} {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: $sidebar-width;
+        height: 100vh;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-image: url('../images/SideBar/#{$filename}@#{$screen}.jpg');
+      }
+    }
+
+    $offset: $offset + $sidebar-width;
+  }
+}

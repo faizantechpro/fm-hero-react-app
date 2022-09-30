@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name" : "Bypass"
+    },
+    {
+        "id": 2,
+        "name" : "Calibrate/Adjust"
+    },
+    {
+        "id": 3,
+        "name" : "New Cap/Seal"
+    },
+    {
+        "id": 4,
+        "name" : "Relocate"
+    },
+    {
+        "id": 5,
+        "name" : "Remove"
+    },
+    {
+        "id": 6,
+        "name" : "Repair"
+    },
+    {
+        "id": 7,
+        "name" : "Replace"
+    },
+    {
+        "id": 8,
+        "name" : "Tighten"
+    },
+    {
+        "id": 9,
+        "name" : "Weld"
+    },
+    {
+        "id": 10,
+        "name" : "Other"
+    }
+]

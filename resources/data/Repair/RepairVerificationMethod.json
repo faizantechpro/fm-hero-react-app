@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "ALDS"
+    },
+    {
+        "id": 2,
+        "name": "Alternative"
+    },
+    {
+        "id": 3,
+        "name": "Bubble"
+    },
+    {
+        "id": 4,
+        "name": "Dye"
+    },
+    {
+        "id": 5,
+        "name": "Electronic"
+    },
+    {
+        "id": 6,
+        "name": "Evacuation"
+    },
+    {
+        "id": 7,
+        "name": "Halide"
+    },
+    {
+        "id": 8,
+        "name": "Pressure"
+    }
+]

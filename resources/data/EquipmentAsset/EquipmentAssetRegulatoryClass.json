@@ -1,0 +1,18 @@
+[
+    {
+        "id": "Comfort Cooling",
+        "name": "Comfort Cooling"
+    },
+    {
+        "id": "Industrial Process Cooling",
+        "name": "Industrial Process Cooling"
+    },
+    {
+        "id": "Refrigeration",
+        "name": "Refrigeration"
+    },
+    {
+        "id": "Other",
+        "name": "Other"
+    }
+]

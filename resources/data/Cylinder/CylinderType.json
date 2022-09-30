@@ -1,0 +1,14 @@
+[
+    {
+        "id": "Disposable",
+        "name": "Disposable"
+    },
+    {
+        "id": "Refillable",
+        "name": "Refillable"
+    },
+    {
+        "id": "Recovery",
+        "name": "Recovery"
+    }
+]

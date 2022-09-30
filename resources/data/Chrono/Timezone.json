@@ -1,0 +1,415 @@
+[
+    {
+        "label": "America/Anchorage (GMT-09:00)",
+        "tzCode": "America/Anchorage",
+        "id": "(GMT-09:00) Alaska Time",
+		"name": "(GMT-09:00) Alaska Time",
+        "utc": "-09:00"
+    },
+    {
+        "label": "America/Arizona (GMT-07:00)",
+        "tzCode": "America/Arizona",
+        "id": "(GMT-07:00) Arizona Time",
+		"name": "(GMT-07:00) Arizona Time",
+        "utc": "-07:00"
+    },
+    {
+        "label": "America/Los_Angeles (GMT-08:00)",
+        "tzCode": "America/Los_Angeles",
+        "id": "(GMT-08:00) Pacific Time",
+		"name": "(GMT-08:00) Pacific Time",
+        "utc": "-08:00"
+    },
+    {
+        "label": "America/Denver (GMT-07:00)",
+        "tzCode": "America/Denver",
+        "id": "(GMT-07:00) Mountain Time",
+		"name": "(GMT-07:00) Mountain Time",
+        "utc": "-07:00"
+    },
+    {
+        "label": "America/Belize (GMT-06:00)",
+        "tzCode": "America/Belize",
+        "id": "(GMT-06:00) Belize",
+		"name": "(GMT-06:00) Belize",
+        "utc": "-06:00"
+    },
+    {
+        "label": "America/Chicago (GMT-06:00)",
+        "tzCode": "America/Chicago",
+        "id": "(GMT-06:00) Central Time",
+		"name": "(GMT-06:00) Central Time",
+        "utc": "-06:00"
+    },
+    {
+        "label": "America/Costa_Rica (GMT-06:00)",
+        "tzCode": "America/Costa_Rica",
+        "id": "(GMT-06:00) Costa Rica",
+		"name": "(GMT-06:00) Costa Rica",
+        "utc": "-06:00"
+    },
+    {
+        "label": "America/El_Salvador (GMT-06:00)",
+        "tzCode": "America/El_Salvador",
+        "id": "(GMT-06:00) El Salvador",
+		"name": "(GMT-06:00) El Salvador",
+        "utc": "-06:00"
+    },
+    {
+        "label": "America/Guatemala (GMT-06:00)",
+        "tzCode": "America/Guatemala",
+        "id": "(GMT-06:00) Guatemala",
+		"name": "(GMT-06:00) Guatemala",
+        "utc": "-06:00"
+    },
+    {
+        "label": "America/Managua (GMT-06:00)",
+        "tzCode": "America/Managua",
+        "id": "(GMT-06:00) Managua",
+		"name": "(GMT-06:00) Managua",
+        "utc": "-06:00"
+    },
+    {
+        "label": "America/Bogota (GMT-05:00)",
+        "tzCode": "America/Bogota",
+        "id": "(GMT-05:00) Bogota",
+		"name": "(GMT-05:00) Bogota",
+        "utc": "-05:00"
+    },
+    {
+        "label": "America/Cancun (GMT-05:00)",
+        "tzCode": "America/Cancun",
+        "id": "(GMT-05:00) America Cancun",
+		"name": "(GMT-05:00) America Cancun",
+        "utc": "-05:00"
+    },
+    {
+        "label": "America/Cayman (GMT-05:00)",
+        "tzCode": "America/Cayman",
+        "id": "(GMT-05:00) Cayman",
+		"name": "(GMT-05:00) Cayman",
+        "utc": "-05:00"
+    },
+    {
+        "label": "America/Guayaquil (GMT-05:00)",
+        "tzCode": "America/Guayaquil",
+        "id": "(GMT-05:00) Guayaquil",
+		"name": "(GMT-05:00) Guayaquil",
+        "utc": "-05:00"
+    },
+    {
+        "label": "America/Havana (GMT-05:00)",
+        "tzCode": "America/Havana",
+        "id": "(GMT-05:00) Havana",
+		"name": "(GMT-05:00) Havana",
+        "utc": "-05:00"
+    },
+    {
+        "label": "America/Jamaica (GMT-05:00)",
+        "tzCode": "America/Jamaica",
+        "id": "(GMT-05:00) Jamaica",
+		"name": "(GMT-05:00) Jamaica",
+        "utc": "-05:00"
+    },
+    {
+        "label": "America/Lima (GMT-05:00)",
+        "tzCode": "America/Lima",
+        "id": "(GMT-05:00) Lima",
+		"name": "(GMT-05:00) Lima",
+        "utc": "-05:00"
+    },
+    {
+        "label": "America/Nassau (GMT-05:00)",
+        "tzCode": "America/Nassau",
+        "id": "(GMT-05:00) Nassau",
+		"name": "(GMT-05:00) Nassau",
+        "utc": "-05:00"
+    },
+    {
+        "label": "America/New_York (GMT-05:00)",
+        "tzCode": "America/New_York",
+        "id": "(GMT-05:00) Eastern Time",
+		"name": "(GMT-05:00) Eastern Time",
+        "utc": "-05:00"
+    },
+    {
+        "label": "America/Panama (GMT-05:00)",
+        "tzCode": "America/Panama",
+        "id": "(GMT-05:00) Panama",
+		"name": "(GMT-05:00) Panama",
+        "utc": "-05:00"
+    },
+    {
+        "label": "America/Port-au-Prince (GMT-05:00)",
+        "tzCode": "America/Port-au-Prince",
+        "id": "(GMT-05:00) Port-au-Prince",
+		"name": "(GMT-05:00) Port-au-Prince",
+        "utc": "-05:00"
+    },
+    {
+        "label": "America/Rio_Branco (GMT-05:00)",
+        "tzCode": "America/Rio_Branco",
+        "id": "(GMT-05:00) Rio Branco",
+		"name": "(GMT-05:00) Rio Branco",
+        "utc": "-05:00"
+    },
+    {
+        "label": "America/Caracas (GMT-04:30)",
+        "tzCode": "America/Caracas",
+        "id": "(GMT-04:30) Caracas",
+		"name": "(GMT-04:30) Caracas",
+        "utc": "-04:30"
+    },
+    {
+        "label": "America/Asuncion (GMT-03:00)",
+        "tzCode": "America/Asuncion",
+        "id": "(GMT-03:00) Asuncion",
+		"name": "(GMT-03:00) Asuncion",
+        "utc": "-03:00"
+    },
+    {
+        "label": "America/Barbados (GMT-04:00)",
+        "tzCode": "America/Barbados",
+        "id": "(GMT-04:00) Barbados",
+		"name": "(GMT-04:00) Barbados",
+        "utc": "-04:00"
+    },
+    {
+        "label": "America/Boa_Vista (GMT-04:00)",
+        "tzCode": "America/Boa_Vista",
+        "id": "(GMT-04:00) Boa Vista",
+		"name": "(GMT-04:00) Boa Vista",
+        "utc": "-04:00"
+    },
+    {
+        "label": "America/Campo_Grande (GMT-03:00)",
+        "tzCode": "America/Campo_Grande",
+        "id": "(GMT-03:00) Campo Grande",
+		"name": "(GMT-03:00) Campo Grande",
+        "utc": "-03:00"
+    },
+    {
+        "label": "America/Cuiaba (GMT-03:00)",
+        "tzCode": "America/Cuiaba",
+        "id": "(GMT-03:00) Cuiaba",
+		"name": "(GMT-03:00) Cuiaba",
+        "utc": "-03:00"
+    },
+    {
+        "label": "America/Curacao (GMT-04:00)",
+        "tzCode": "America/Curacao",
+        "id": "(GMT-04:00) Curacao",
+		"name": "(GMT-04:00) Curacao",
+        "utc": "-04:00"
+    },
+    {
+        "label": "America/Grand_Turk (GMT-04:00)",
+        "tzCode": "America/Grand_Turk",
+        "id": "(GMT-04:00) Grand Turk",
+		"name": "(GMT-04:00) Grand Turk",
+        "utc": "-04:00"
+    },
+    {
+        "label": "America/Guyana (GMT-04:00)",
+        "tzCode": "America/Guyana",
+        "id": "(GMT-04:00) Guyana",
+		"name": "(GMT-04:00) Guyana",
+        "utc": "-04:00"
+    },
+    {
+        "label": "America/Halifax (GMT-04:00)",
+        "tzCode": "America/Halifax",
+        "id": "(GMT-04:00) Atlantic Time - Halifax",
+		"name": "(GMT-04:00) Atlantic Time - Halifax",
+        "utc": "-04:00"
+    },
+    {
+        "label": "America/La_Paz (GMT-04:00)",
+        "tzCode": "America/La_Paz",
+        "id": "(GMT-04:00) La Paz",
+		"name": "(GMT-04:00) La Paz",
+        "utc": "-04:00"
+    },
+    {
+        "label": "America/Manaus (GMT-04:00)",
+        "tzCode": "America/Manaus",
+        "id": "(GMT-04:00) Manaus",
+		"name": "(GMT-04:00) Manaus",
+        "utc": "-04:00"
+    },
+    {
+        "label": "America/Martinique (GMT-04:00)",
+        "tzCode": "America/Martinique",
+        "id": "(GMT-04:00) Martinique",
+		"name": "(GMT-04:00) Martinique",
+        "utc": "-04:00"
+    },
+    {
+        "label": "America/Port_of_Spain (GMT-04:00)",
+        "tzCode": "America/Port_of_Spain",
+        "id": "(GMT-04:00) Port of Spain",
+		"name": "(GMT-04:00) Port of Spain",
+        "utc": "-04:00"
+    },
+    {
+        "label": "America/Porto_Velho (GMT-04:00)",
+        "tzCode": "America/Porto_Velho",
+        "id": "(GMT-04:00) Porto Velho",
+		"name": "(GMT-04:00) Porto Velho",
+        "utc": "-04:00"
+    },
+    {
+        "label": "America/Puerto_Rico (GMT-04:00)",
+        "tzCode": "America/Puerto_Rico",
+        "id": "(GMT-04:00) Puerto Rico",
+		"name": "(GMT-04:00) Puerto Rico",
+        "utc": "-04:00"
+    },
+    {
+        "label": "America/Santo_Domingo (GMT-04:00)",
+        "tzCode": "America/Santo_Domingo",
+        "id": "(GMT-04:00) Santo Domingo",
+		"name": "(GMT-04:00) Santo Domingo",
+        "utc": "-04:00"
+    },
+    {
+        "label": "America/Thule (GMT-04:00)",
+        "tzCode": "America/Thule",
+        "id": "(GMT-04:00) Thule",
+		"name": "(GMT-04:00) Thule",
+        "utc": "-04:00"
+    },
+    {
+        "label": "America/Toronto (GMT-05:00)",
+        "tzCode": "America/Toronto",
+        "id": "(GMT-05:00) Toronto",
+		"name": "(GMT-05:00) Toronto",
+        "utc": "-05:00"
+    },
+    {
+        "label": "America/St_Johns (GMT-03:30)",
+        "tzCode": "America/St_Johns",
+        "id": "(GMT-03:30) Newfoundland Time - St. Johns",
+		"name": "(GMT-03:30) Newfoundland Time - St. Johns",
+        "utc": "-03:30"
+    },
+    {
+        "label": "America/Araguaina (GMT-03:00)",
+        "tzCode": "America/Araguaina",
+        "id": "(GMT-03:00) Araguaina",
+		"name": "(GMT-03:00) Araguaina",
+        "utc": "-03:00"
+    },
+    {
+        "label": "America/Argentina/Buenos_Aires (GMT-03:00)",
+        "tzCode": "America/Argentina/Buenos_Aires",
+        "id": "(GMT-03:00) Buenos Aires",
+		"name": "(GMT-03:00) Buenos Aires",
+        "utc": "-03:00"
+    },
+    {
+        "label": "America/Bahia (GMT-03:00)",
+        "tzCode": "America/Bahia",
+        "id": "(GMT-03:00) Salvador",
+		"name": "(GMT-03:00) Salvador",
+        "utc": "-03:00"
+    },
+    {
+        "label": "America/Belem (GMT-03:00)",
+        "tzCode": "America/Belem",
+        "id": "(GMT-03:00) Belem",
+		"name": "(GMT-03:00) Belem",
+        "utc": "-03:00"
+    },
+    {
+        "label": "America/Cayenne (GMT-03:00)",
+        "tzCode": "America/Cayenne",
+        "id": "(GMT-03:00) Cayenne",
+		"name": "(GMT-03:00) Cayenne",
+        "utc": "-03:00"
+    },
+    {
+        "label": "America/Fortaleza (GMT-03:00)",
+        "tzCode": "America/Fortaleza",
+        "id": "(GMT-03:00) Fortaleza",
+		"name": "(GMT-03:00) Fortaleza",
+        "utc": "-03:00"
+    },
+    {
+        "label": "America/Godthab (GMT-03:00)",
+        "tzCode": "America/Godthab",
+        "id": "(GMT-03:00) Godthab",
+		"name": "(GMT-03:00) Godthab",
+        "utc": "-03:00"
+    },
+    {
+        "label": "America/Maceio (GMT-03:00)",
+        "tzCode": "America/Maceio",
+        "id": "(GMT-03:00) Maceio",
+		"name": "(GMT-03:00) Maceio",
+        "utc": "-03:00"
+    },
+    {
+        "label": "America/Miquelon (GMT-03:00)",
+        "tzCode": "America/Miquelon",
+        "id": "(GMT-03:00) Miquelon",
+		"name": "(GMT-03:00) Miquelon",
+        "utc": "-03:00"
+    },
+    {
+        "label": "America/Montevideo (GMT-03:00)",
+        "tzCode": "America/Montevideo",
+        "id": "(GMT-03:00) Montevideo",
+		"name": "(GMT-03:00) Montevideo",
+        "utc": "-03:00"
+    },
+    {
+        "label": "America/Paramaribo (GMT-03:00)",
+        "tzCode": "America/Paramaribo",
+        "id": "(GMT-03:00) Paramaribo",
+		"name": "(GMT-03:00) Paramaribo",
+        "utc": "-03:00"
+    },
+    {
+        "label": "America/Recife (GMT-03:00)",
+        "tzCode": "America/Recife",
+        "id": "(GMT-03:00) Recife",
+		"name": "(GMT-03:00) Recife",
+        "utc": "-03:00"
+    },
+    {
+        "label": "America/Santiago (GMT-03:00)",
+        "tzCode": "America/Santiago",
+        "id": "(GMT-03:00) Santiago",
+		"name": "(GMT-03:00) Santiago",
+        "utc": "-03:00"
+    },
+    {
+        "label": "America/Sao_Paulo (GMT-02:00)",
+        "tzCode": "America/Sao_Paulo",
+        "id": "(GMT-02:00) Sao Paulo",
+		"name": "(GMT-02:00) Sao Paulo",
+        "utc": "-02:00"
+    },
+    {
+        "label": "America/Noronha (GMT-02:00)",
+        "tzCode": "America/Noronha",
+        "id": "(GMT-02:00) Noronha",
+		"name": "(GMT-02:00) Noronha",
+        "utc": "-02:00"
+    },
+    {
+        "label": "America/Scoresbysund (GMT-01:00)",
+        "tzCode": "America/Scoresbysund",
+        "id": "(GMT-01:00) Scoresbysund",
+		"name": "(GMT-01:00) Scoresbysund",
+        "utc": "-01:00"
+    },
+    {
+        "label": "America/Danmarkshavn (GMT+00:00)",
+        "tzCode": "America/Danmarkshavn",
+        "id": "(GMT+00:00) Danmarkshavn",
+		"name": "(GMT+00:00) Danmarkshavn",
+        "utc": "+00:00"
+    }
+]
